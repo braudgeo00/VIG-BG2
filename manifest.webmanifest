@@ -1,0 +1,17 @@
+{
+  "name": "Calculateur de vidange VIG-BG",
+  "short_name": "Vidange",
+  "description": "Calculateur de vidange de fûts, style Pip-Boy",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030804",
+  "theme_color": "#030804",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
